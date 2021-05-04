@@ -1,0 +1,51 @@
+.section-padding {
+    padding: 80px 0;
+}
+
+.section-heading {
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.single-service-box {
+    border: 1px solid #ebebeb;
+    text-align: center;
+}
+
+.service-box-bg {background: #ddd;height: 200px;position: relative;}
+
+.service-box-bg h2 {
+    background: #dd5044;
+    color: #fff;
+    font-size: 23px;
+    text-align: center;
+    font-weight: 400;
+    padding: 15px;
+    position: absolute;
+    left: 8%;
+    width: 85%;
+    margin: 0;
+    bottom: -28px;
+}
+
+.service-content {
+    padding: 30px;
+    padding-top: 50px;
+    line-height: 30px;
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 25px;
+}
+
+.service-content p:last-child {
+    margin: 0;
+}
+
+.service-readmore {
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
